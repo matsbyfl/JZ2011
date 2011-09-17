@@ -13,5 +13,5 @@
 <img border="0" src="../images/separator.gif" />
 <a href="<c:url value="/shop/viewCategory.do?categoryId=BIRDS"/>">
 <img border="0" src="../images/sm_birds.gif" /></a>
-<% out.println( "<br><h1>Hello Testsenteret</h1>" ); %>
+<% out.println( "<br><h1>Hello Testsenteret nytt GitRepe</h1>" ); %>
 </center>
