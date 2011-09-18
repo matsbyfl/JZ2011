@@ -58,7 +58,9 @@
 
            </td>
           <td align="center" bgcolor="white" height="300" width="100%">
-			<% out.println( "Velkommen til Testsenter appen" ); %>
+          <!-- 
+			<% out.println( "<h1>Velkommen til Testsenter appen</h1>" ); %>
+		   -->
           <!-- MAIN IMAGE -->
 
           <!-- <map name="estoremap"><area alt="Birds" coords="72,2,280,250" href="viewCategory.do?categoryId=BIRDS" shape="RECT" />
