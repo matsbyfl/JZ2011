@@ -22,7 +22,7 @@
         &nbsp;
       </td>
       </tr>
-              <tr>
+          <!--     <tr>
                 <td>
                 <a href="<c:url value="/shop/viewCategory.do?categoryId=FISH"/>">
                 <img border="0" src="../images/fish_icon.gif" /></a>
@@ -53,7 +53,7 @@
                 </td>
               </tr>
 
-              </tbody>
+ -->              </tbody>
              </table>
 
            </td>
