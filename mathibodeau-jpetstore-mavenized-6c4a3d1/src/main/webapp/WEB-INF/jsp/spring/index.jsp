@@ -61,13 +61,15 @@
 
           <!-- MAIN IMAGE -->
 
-          <map name="estoremap"><area alt="Birds" coords="72,2,280,250" href="viewCategory.do?categoryId=BIRDS" shape="RECT" />
+          <!-- <map name="estoremap"><area alt="Birds" coords="72,2,280,250" href="viewCategory.do?categoryId=BIRDS" shape="RECT" />
           <area alt="Fish" coords="2,180,72,250" href="viewCategory.do?categoryId=FISH" shape="RECT" />
           <area alt="Dogs" coords="60,250,130,320" href="viewCategory.do?categoryId=DOGS" shape="RECT" />
           <area alt="Reptiles" coords="140,270,210,340" href="viewCategory.do?categoryId=REPTILES" shape="RECT" />
           <area alt="Cats" coords="225,240,295,310" href="viewCategory.do?categoryId=CATS" shape="RECT" />
           <area alt="Birds" coords="280,180,350,250" href="viewCategory.do?categoryId=BIRDS" shape="RECT" /></map>
           <img border="0" height="355" src="../images/splash.gif" align="center" usemap="#estoremap" width="350" />
+           -->
+          
           </td></tr></tbody></table></td></tr>
 
         </tbody>
