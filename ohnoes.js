@@ -1,1 +1,1 @@
-console.log(69)
+console.log('hammertime av saft')
